@@ -2,32 +2,32 @@
 
 box-sizing: border-box;
 }
-
 body {
-
-  padding: 1em;
+  width: 100%;
   font-size: 100%;
   text-align: center;
+  margin: 0 auto;
+  background: #d8e2e0
 }
 
 h1 {
 
-  font-size: 1.5em;
+  font-size: 2em;
 }
 
 h2 {
 
-  font-size: 1.3em;
+  font-size: 1.8em;
 }
 
 h3 {
 
-  font-size: 1.17em;
+  font-size: 1.67em;
 }
 
 p {
 
-  font-size: 0.75em;
+  font-size: 1.25em;
 }
 
 body, h1, h2, h3, p, a, li a {

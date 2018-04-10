@@ -33,3 +33,19 @@
   padding: 1em;
   font-size: 2em;
 }
+.pull-right {
+  float: right;
+  clear: right;
+  width: 50%;
+  max-width: 500px;
+}
+.pull-left {
+  float: left;
+  width: 50%;
+  max-width: 500px;
+}
+.clearfix:after{
+  content: "";
+  display: table;
+  clear: both;
+}
