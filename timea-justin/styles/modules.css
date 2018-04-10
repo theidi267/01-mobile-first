@@ -1,9 +1,40 @@
 
 @media only screen and (min-width: 640px){
 
-  .main-nav {
+  .main-nav ul {
 
     display: block;
   }
+  .icon-menu {
+    display: none;
+  }
+  html {
+  background: #c4d4d1;
+  }
+  body {
+    width: 80%;
+  }
 
+}
+.vertical-img {
+  width: 25%;
+  max-width: 300px;
+}
+article {
+  margin: 1.5em 0;
+}
+article header h1 {
+margin: .25em;
+}
+article header .byline {
+ margin: 1em
+}
+article header .byline address {
+  margin:.5em;
+}
+article header .byline time {
+  margin:.5em;
+}
+img {
+  padding: .5em;
 }
