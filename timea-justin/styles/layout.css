@@ -50,9 +50,3 @@
   clear: both;
 }
 
-.icon-menu:hover + ul {
-  display: block;
-}
-.icon-menu:hover + ul li {
-  display: block;
-}

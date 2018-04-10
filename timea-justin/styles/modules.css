@@ -16,6 +16,18 @@
   }
 
 }
+
+@media only screen and (max-width: 640px) {
+   .main-nav:hover > ul, .main-nav:active > ul {
+  display: block;
+  }
+  
+  .main-nav:hover > ul li {
+  display: block;
+  }
+}
+
+
 .vertical-img {
   width: 25%;
   max-width: 300px;
