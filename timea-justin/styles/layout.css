@@ -32,6 +32,10 @@
   text-align: right;
   padding: 1em;
   font-size: 2em;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
 }
 .pull-right {
   float: right;
